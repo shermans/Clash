@@ -16,9 +16,11 @@ https://cdn.jsdelivr.net/gh/shermans/web/clash
 https://cdn.jsdelivr.net/gh/shermans/web/v2ray
 
 
-https://cdn.jsdelivr.net/gh/shermans/web/catvod
+https://cdn.jsdelivr.net/gh/shermans/web/catvod.json
 
-https://cdn.jsdelivr.net/gh/shermans/web/diyp
+https://cdn.jsdelivr.net/gh/shermans/web/diyp.txt
+
+https://cdn.jsdelivr.net/gh/shermans/web/canying.txt
 
 
 
