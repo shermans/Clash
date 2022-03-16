@@ -11,9 +11,9 @@ https://raw.githubusercontent.com/shermans/web/main/v2ray
  
  
 
-https://cdn.jsdelivr.net/gh/shermans/web/clash
+https://cdn.jsdelivr.net/gh/shermans/web/clash.yml
 
-https://cdn.jsdelivr.net/gh/shermans/web/v2ray
+https://cdn.jsdelivr.net/gh/shermans/web/v2ray.txt
 
 
 https://cdn.jsdelivr.net/gh/shermans/web/catvod.json
