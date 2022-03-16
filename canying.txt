@@ -1,4 +1,5 @@
 点播：
+优酷,http://zy.yilans.net:8090/api.php/provide/vod/from/youku/at/xml/,解析
 红牛,https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/xml/,不解析
 淘片,https://taopianapi.com/home/cjapi/as/mc/vod/xml,不解析
 无尽,https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/at/xml/,解析
