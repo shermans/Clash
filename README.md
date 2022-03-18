@@ -2,20 +2,10 @@
 全部使用小写字母.
  
  
-https://cdn.jsdelivr.net/gh/shermans/web/catvod.json
-
-https://purge.jsdelivr.net/gh/shermans/web/catvod.json
-
 
 https://purge.jsdelivr.net/gh/shermans/web/diyp.txt
 
 https://cdn.jsdelivr.net/gh/shermans/web/diyp.txt
-
-
-https://purge.jsdelivr.net/gh/shermans/web/canying.txt
-
-https://cdn.jsdelivr.net/gh/shermans/web/canying.txt
-
 
 
 https://purge.jsdelivr.net/gh/shermans/web/clash.yml
@@ -26,6 +16,21 @@ https://cdn.jsdelivr.net/gh/shermans/web/clash.yml
 https://purge.jsdelivr.net/gh/shermans/web/v2ray.txt
 
 https://cdn.jsdelivr.net/gh/shermans/web/v2ray.txt
+
+
+
+以下已失效,不再维护
+https://cdn.jsdelivr.net/gh/shermans/web/catvod.json
+
+https://purge.jsdelivr.net/gh/shermans/web/catvod.json
+
+
+
+https://purge.jsdelivr.net/gh/shermans/web/canying.txt
+
+https://cdn.jsdelivr.net/gh/shermans/web/canying.txt
+
+
 
 
 
