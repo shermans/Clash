@@ -22,6 +22,7 @@
 高分经典国语电影,http://fangsong.live/hls/douyu.php?id=24844959
 哈利波特,http://fangsong.live/hls/douyu.php?id=8814650
 X战警,http://fangsong.live/hls/douyu.php?id=9651304
+X战警,http://hlstct.douyucdn2.cn/dyliveflv3/9651304rzFwD0en2.m3u8
 漫威顺序,http://fangsong.live/hls/douyu.php?id=6140589
 漫威24H,http://fangsong.live/hls/douyu.php?id=6778960
 漫威科幻,http://fangsong.live/hls/douyu.php?id=10630147
@@ -42,6 +43,16 @@ X战警,http://fangsong.live/hls/douyu.php?id=9651304
 儿歌大全,http://fangsong.live/hls/iqiyi.php?id=380069422
 玩具乐园,http://fangsong.live/hls/iqiyi.php?id=180065622
 猫和老鼠,http://fangsong.live/hls/iqiyi.php?id=180052722
+
+隐藏频道,#genre#
+林正英,http://fangsong.live/hls/huya.php?id=11342421
+林正英,http://hw.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
+力哥影视,http://fangsong.live/hls/huya.php?id=23419131
+力哥影视,http://hw.flv.huya.com/src/1199557791348-1199557791348-5419886936686854144-2399115706152-10057-A-0-1.m3u8
+鬼叔怪谈,http://fangsong.live/hls/douyu.php?id=2871394
+鬼叔怪谈,http://hlstct.douyucdn2.cn/dyliveflv3a/2871394rNJY6cGRY.m3u8
+鬼哥说电影,http://fangsong.live/hls/huya.php?id=24968234
+恐怖电影猪哥,http://fangsong.live/hls/huya.php?id=14015002
 
 High运动,#genre#
 0无器械练背十分钟,http://10.10.10.1:19999/0Body/0无器械练背十分钟.mp4
