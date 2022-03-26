@@ -1,3 +1,12 @@
+拼音历险记,#genre#
+a,http://10.10.10.1:19999/0熊孩子怪怪拼音历险记/怪怪 (1).mp4
+o.http://10.10.10.1:19999/0熊孩子怪怪拼音历险记/怪怪 (2).mp4
+e.http://10.10.10.1:19999/0熊孩子怪怪拼音历险记/怪怪 (3).mp4
+i.http://10.10.10.1:19999/0熊孩子怪怪拼音历险记/怪怪 (4).mp4
+u.http://10.10.10.1:19999/0熊孩子怪怪拼音历险记/怪怪 (5).mp4
+v.http://10.10.10.1:19999/0熊孩子怪怪拼音历险记/怪怪 (6).mp4
+
+
 一年级上,#genre#
 语文4-天地人,https://d006.eduyun.cn/videoworks/mda-kicmnwdepvk38sqq/ykt_tbkt_hls_1080_7/video/一年级【语文（统编版）】天地人.m3u8
 语文5-金木水火土,https://d006.eduyun.cn/videoworks/mda-kicmyg9yk3ughfpi/ykt_tbkt_hls_1080_7/video/一年级【语文（统编版）】金木水火土.m3u8
